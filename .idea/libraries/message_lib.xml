@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="message_lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/messaging_library/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/messaging_library/lib" recursive="false" />
+  </library>
+</component>

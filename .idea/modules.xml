@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/booking_client/booking_client.iml" filepath="$PROJECT_DIR$/booking_client/booking_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message_broker/message_broker.iml" filepath="$PROJECT_DIR$/message_broker/message_broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging_library/messaging_library.iml" filepath="$PROJECT_DIR$/messaging_library/messaging_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travel_agency/travel_agency.iml" filepath="$PROJECT_DIR$/travel_agency/travel_agency.iml" />
+    </modules>
+  </component>
+</project>

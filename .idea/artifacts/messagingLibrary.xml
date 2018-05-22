@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="messagingLibrary">
+    <output-path>$PROJECT_DIR$/out/artifacts/messagingLibrary</output-path>
+    <root id="archive" name="messagingLibrary.jar">
+      <element id="module-output" name="messaging_library" />
+    </root>
+  </artifact>
+</component>

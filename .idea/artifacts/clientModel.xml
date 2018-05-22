@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clientModel">
+    <output-path>$PROJECT_DIR$/out/artifacts/clientModel</output-path>
+    <root id="archive" name="clientClasses.jar">
+      <element id="directory" name="booking">
+        <element id="directory" name="client">
+          <element id="directory" name="gateway">
+            <element id="directory" name="serializer">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/booking_client/booking/client/gateway/serializer/BookingSerializer.class" />
+            </element>
+          </element>
+          <element id="directory" name="model">
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/booking_client/booking/client/model/Address.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/booking_client/booking/client/model/ClientBookingReply.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/booking_client/booking/client/model/ClientBookingRequest.class" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
